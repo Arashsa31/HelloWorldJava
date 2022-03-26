@@ -1,6 +1,6 @@
 /**
  * @author Arash
- * This program prints the famous Hello World! text.
+ * This program prints the famous Hello World! text
  */
 public class HelloWorld 
 {
